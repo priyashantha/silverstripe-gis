@@ -42,7 +42,7 @@ class GDRenderer
 
             switch ($key) {
                 case 'pointradius':
-                    continue;
+                    continue 2;
                 case 'backgroundcolor':
                 case 'strokecolor':
                 case 'fillcolor':
